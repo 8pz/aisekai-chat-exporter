@@ -1,6 +1,6 @@
 # Aisekai Chat Exporter
 
-[Usage](https://github.com/8pz/...#usage) • [Changelog](https://github.com/8pz/...#changelog) • [License](https://github.com/8pz/...#license)
+[Usage](https://github.com/8pz/aisekai-chat-exporter#usage) • [Changelog](https://github.com/8pz/aisekai-chat-exporter#changelog) • [License](https://github.com/8pz/aisekai-chat-exporter#license)
 
 Aisekai Chat Exporter is a free, open source script that allows the user to export their chats with their favorite characters. Uses a very simple javascript system that fetches message information by class, formats the messages, and saves the messages to a txt file.
 
